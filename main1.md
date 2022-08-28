@@ -1,6 +1,8 @@
 ## Research & Exploration
-https://en.scratch-wiki.info/w/images/Scratch_logo.svg
-<a href="[https://imgur.com/gBk6hNq"><img src="https://i.imgur.com/gBk6hNq.png](https://en.scratch-wiki.info/w/images/Scratch_logo.svg)" title="source: imgur.com" /></a>
+
+https://fr.scratch-wiki.info/w/images/4/44/Scratch_2.0_logo.svg
+
+<a href="[https://imgur.com/gBk6hNq](https://fr.scratch-wiki.info/w/images/4/44/Scratch_2.0_logo.svg)"><img src="https://i.imgur.com/gBk6hNq.png" title="source: imgur.com" /></a>
 
 During week one I used Scratch. Scratch is a visual programming language, I experimented with to help better understand some of the fundamentals of programming.
 
