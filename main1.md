@@ -95,7 +95,9 @@ You can run this program in visual studio code or notepad++ by selecting the pyt
 
 <a href="whitcalc"><img src="https://i.imgur.com/wsKfq3H.png" title="whitcalc" /></a>
 
+## My Software Project
 
+*"You've been researching lots of different types of code and/or various software practices and technologies. You've developed something of your own, which you think is interesting, that you're proud of, or that you have found compelling and interesting to work with. This could be called Your Software Project.*"
 
 
 
