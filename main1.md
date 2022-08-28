@@ -24,6 +24,8 @@ I forked my professor's GitHub repository to get an idea of how code sharing act
 
 After my scratch and GitHub introduction I was recommended to research and learn some of the Python programming language. This language had a lot of the same tools as Scratch does but in a more powerful less obvious syntax. I quickly learned the ease this programming language has for projects of an arithmetic nature and realised with some practice I could build code for a functioning calculator if I wished to as a practice product.
 
+<br>
+
 ## Analysis & Evaluation
 
 A lot of my study time has been spent practicing python below is some practice showing basic control flow and function creation in python.
@@ -41,6 +43,8 @@ Some more advanced usability. Demonstrating usage of:
 - Datatype conversions
 - User input
 - While loops
+
+[comment]: <> (markdown lists and comments 👍 and emojis)
 
 
 
