@@ -10,8 +10,4 @@ Scratch uses unique templates of pieces similar to a jigsaw puzzle. Allowing me 
 
 I found scratch very informative as it showed me how I can be in control and create games and tools from the ground up.
 
-https://blog.devgenius.io/what-is-github-and-how-to-use-it-5dea070d2390
-
-https://miro.medium.com/max/1400/0*ZLfPdBuEy3SgJscw.jpg
-
-<a href="https://imgur.com/gBk6hNq"><img src="[https://i.imgur.com/gBk6hNq.png](https://miro.medium.com/max/1400/0*ZLfPdBuEy3SgJscw.jpg)" title="source: imgur.com" /></a>
+[Imgur](https://i.imgur.com/0sCtJCO.jpg)
