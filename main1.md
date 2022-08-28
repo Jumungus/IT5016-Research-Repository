@@ -48,6 +48,14 @@ Some more advanced usability. Demonstrating usage of:
 
 <a href="pythonexample3"><img src="https://i.imgur.com/vTyXH7t.png" title="pythonexample3" /></a>
 
+After learning an adequate amount of python structure I realised I didn’t know how user interfaces are built and managed, I did some research and learned about Tkinter, a python module I can import which allows me to build and design custom GUIs for my code. This was important for me for most software I have ever used has come with easily intractable interfaces and helped me envision my full project. 
+
+I had a brief Idea of a calculator project to build so I spent some time researching and creating features from Tkinter I believed would help my project such as Assigning functions to a GUI and Building and designing basic GUIs.
+
+## Application of Knowledge & Understanding
+
+
+
 
 
 
