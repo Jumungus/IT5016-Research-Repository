@@ -2,7 +2,7 @@
 
 During week one I used Scratch. Scratch is a visual programming language, I experimented with to help better understand some of the fundamentals of programming.
 
-<a href="scratch1"><img src="https://i.imgur.com/gBk6hNq.png" title="scratch1" /></a>
+<a href="scratch1"><img src="https://i.imgur.com/gBk6hNq.png" title="scratch1" align="center" /></a>
 
 This tool helped me experiment and understand some data science fundamentals such as variables, loops, arithmetic operations, control flow and user inputs.
 
