@@ -34,7 +34,7 @@ Below are some practice examples of some practical inputs and calculations for c
 
 <a href="pythonexample1"><img src="https://i.imgur.com/zPVDJes.png" title="pythonexample1" /></a>
 
-<a href="pythonexample1"><img src="https://i.imgur.com/yVLs1xK.png" title="pythonexample3" /></a>
+<a href="pythonexample2"><img src="https://i.imgur.com/yVLs1xK.png" title="pythonexample2" /></a>
 
 Some more advanced usability. Demonstrating usage of:
 - Functions: sum() and len()
@@ -46,6 +46,7 @@ Some more advanced usability. Demonstrating usage of:
 
 [comment]: <> (markdown lists and comments 👍 and emojis)
 
+<a href="pythonexample3"><img src="https://i.imgur.com/vTyXH7t.png" title="pythonexample3" /></a>
 
 
 
