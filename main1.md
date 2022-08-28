@@ -54,6 +54,49 @@ I had a brief Idea of a calculator project to build so I spent some time researc
 
 ## Application of Knowledge & Understanding
 
+With my new knowledge of arithmetic operations, python and Tkinter I believed I was ready to work on a project, I have some experience with designing and creating projects so I started with a paper plan and a model diagram as seen below.
+
+<a href="papercalc1"><img src="https://i.imgur.com/HvQAEdm.png" title="papercalc1" /></a>
+
+As far as practical use, I am satisfied if the program is able to do basic arithmetic operations of two numbers including addition, subtraction, division and multiplication. These are very standard calculator operations so for the most part my GUI design resembles a standard calculator with a clear/reset and equals/sum button.
+
+This is very useful as people intrinsically recognize the interface layout and the client will have an easy time utilizing the program. One bonus feature I added was to have an effective way to convert the length units of inches and centimetres between each other. To add this functionality to the GUI I placed two buttons under the program titled “Inches” and “cm” that would convert the entered number to the selected unit and display the converted sum respectively.
+
+### Development of Application
+
+For the development of this application I will be using Notepad++ and Visual Studio Code as my text editor, many options for editors would work and I only chose these two programs because of my previous practice and proficiency with them.
+A few weeks to complete my program which is plenty of time. I will however aim to finish most of the build early to allow some freedom to test, polish and potentially fix the application as well as giving me time to update my research repository before It is due.
+
+### Installation and Configuration of Tools To Set Up The Lab Environment
+
+The installation and configuration of tools and software that I will be using to create this program are Python, Visual Studio Code and Notepad++. This is mostly setup on the Whitecliffe student computers already.  I imported the Python module Tkinter with from tkinter import* This line of code imports a set of pre-made functions which I can use to build graphical user interfaces like the one in the software model prototype above.  As always within an IT lab environment it is safe to expect slight issues and disruptions as I build my program however with my IT experience I am confident that I can overcome them.
+
+I found it important to keep track of my lab environment so I can know the fundamental limitations and requirements of my software so I can replicate my environment if I ever wish to share or use it somewhere else.
+
+### Testing Of Application
+
+Once my program's algorithmic structure is complete I will test a list of practical commands. I will work to test as many potential use cases of my program I can find to see if they run adequately and then bug fix and redesign issues until the program is up to quality and has fully met the client’s requirements. Some of these test cases include:
+
+Checking the arithmetic operations are working fine- +, -, /, * etc.
+- Verify that hitting ‘C’ cancels any digits or operations added.
+- Verify that all the buttons are present and text written on them is readable.
+- Verify that the calculator gives the correct result in case of operations containing decimal numbers.
+- Verify the spacing between the two buttons is uncluttered.
+- Verify the number of digits allowed to enter in the calculator for any operation.
+- Check if keeping the calculator unused for a certain period of time, turns it off automatically
+- Verify that on pressing two operators one after the other, the latest one will override the previous operator.
+- Verify the state of the calculator when two buttons are pressed simultaneously.
+
+### Presentation of Application
+
+With my application I will create a small instructional write up on how to use the tkinter graphical user interface effectively just in case I forget or share with someone who is unsure. I also included the lab environment specifications in case they need to be setup.
+
+You can run this program in visual studio code or notepad++ by selecting the python file after selecting run. The final product shown below.
+
+<a href="whitcalc"><img src="https://i.imgur.com/wsKfq3H.png" title="whitcalc" /></a>
+
+
+
 
 
 
