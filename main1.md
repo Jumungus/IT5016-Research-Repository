@@ -108,8 +108,17 @@ For my assignment I have been tasked with useing my newfound skills to build a s
 *Most importantly, this will help to build your intellectual confidence as a researcher and technical acumen and a practitioner."*
 
 
-I find it good when working in IT to almost redo my work once I have gained skills and experience. 
+I find it good when working in IT to almost redo my work once I have gained skills and experience. I am going to spend some time studying python chatbots as they can be complex or simple giving me breathing room to expand on my learning.
+
 ### My Software Project Research & Exploration
+#### what chatbots are
+#### what types of chatbots exist
+#### how chatbots have changed over time
+#### what ethical considerations to take when building chatbots
+#### the basics of natural language processing
+#### overview of what neural networks and deep learning are
+#### how to apply deep learning models for natural language processing purposes
+
 ### Analysis & Evaluation
 ### Application of Knowledge & Understanding
  
