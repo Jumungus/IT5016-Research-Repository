@@ -97,7 +97,22 @@ You can run this program in visual studio code or notepad++ by selecting the pyt
 
 ## My Software Project
 
-*"You've been researching lots of different types of code and/or various software practices and technologies. You've developed something of your own, which you think is interesting, that you're proud of, or that you have found compelling and interesting to work with. This could be called Your Software Project.*"
+*"You've been researching lots of different types of code and/or various software practices and technologies. You've developed something of your own, which you think is interesting, that you're proud of, or that you have found compelling and interesting to work with. This could be called Your Software Project.*" -Whitecliffe assignment
+
+*"We are asking you to treat your software like an artwork."*
+
+*"based on your own technical research and emerging practice."*
+
+*Most importantly, this will help to build your intellectual confidence as a researcher and technical acumen and a practitioner."*
+
+The chose the above quotes from my assesment as I felt they where important points to focus on.
+
+I find it good when working in IT to almost redo my work once I have gained skills and experience. 
+### My Software Project Research & Exploration
+### Analysis & Evaluation
+### Application of Knowledge & Understanding
+ 
+
 
 
 
