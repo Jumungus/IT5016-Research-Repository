@@ -144,6 +144,13 @@ I was given a set of rules for shipping costs as shown below:
 
 My program will take a shipped product's weight and calculate the most cost efficient options for delivery.
 
+<a href="ship2"><img src="https://i.imgur.com/okFj0yH.png" title="ship2" /></a>
+
+the code checks the price of each shipping option according to the rules and outputs all options.
+
+<a href="ship3"><img src="https://i.imgur.com/zfiG4lB.png" title="ship3" /></a>
+
+I am inspired by this completed product as I can see its obvious use and potential. Some simple advancements could be the ability to find the cheapest of the three options or even ask for the input before calculating for a more personal experience.
 
 #### what chatbots are
 #### what types of chatbots exist
