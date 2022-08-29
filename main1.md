@@ -111,6 +111,13 @@ For my assignment I have been tasked with useing my newfound skills to build a s
 I find it good when working in IT to almost redo my work once I have gained skills and experience. I am going to spend some time studying python chatbots as they can be complex or simple giving me breathing room to expand on my learning.
 
 ### My Software Project Research & Exploration
+I spent some time looking into diffrent types of chatbots and how/why they are used.
+
+Common use of chatbots are for customer support on e-commerce websites.
+
+Some chatbots are advanced virtual assistants like Alexa or Siri who can help you use technology more efficiently and naturally.
+
+
 I started by building a very simple chatbot that will just repeat a users prompt.
 
 <a href="echobot"><img src="https://i.imgur.com/JCFZGZQ.png" title="echobot" /></a>
