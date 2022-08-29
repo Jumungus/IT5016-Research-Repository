@@ -128,6 +128,8 @@ Basic program running successfully:
 
 <a href="echobot2"><img src="https://i.imgur.com/Y4NaXlv.png" title="echobot2" /></a>
 
+### Magic 8 Ball
+
 I found a project map online for a slightly more advanced Magic 8 Ball chatbot, It uses the random module allowing for an unspecific but entertaining response for the users question. as shown below.
 
 <a href="magic8ball"><img src="https://i.imgur.com/Y7UUoSp.png" title="magic8ball" /></a>
