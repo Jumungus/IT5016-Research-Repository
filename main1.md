@@ -111,6 +111,14 @@ For my assignment I have been tasked with useing my newfound skills to build a s
 I find it good when working in IT to almost redo my work once I have gained skills and experience. I am going to spend some time studying python chatbots as they can be complex or simple giving me breathing room to expand on my learning.
 
 ### My Software Project Research & Exploration
+I started by building a very simple chatbot that will just repeat a users prompt.
+
+<a href="echobot"><img src="https://i.imgur.com/JCFZGZQ.png" title="echobot" /></a>
+
+Basic program running successfully:
+
+<a href="echobot2"><img src="https://i.imgur.com/Y4NaXlv.png" title="echobot2" /></a>
+
 #### what chatbots are
 #### what types of chatbots exist
 #### how chatbots have changed over time
