@@ -117,6 +117,7 @@ Common use of chatbots are for customer support on e-commerce websites.
 
 Some chatbots are advanced virtual assistants like Alexa or Siri who can help you use technology more efficiently and naturally.
 
+And some such as Cleverbot.com are for entertainment.
 
 I started by building a very simple chatbot that will just repeat a users prompt.
 
