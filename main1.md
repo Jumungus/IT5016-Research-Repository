@@ -120,7 +120,7 @@ Some chatbots are advanced virtual assistants like Alexa or Siri who can help yo
 
 And some such as Cleverbot.com are for entertainment.
 
-I started by building a very simple chatbot that will just repeat a users prompt.
+### I started by building a very simple chatbot that will just repeat a users prompt.
 
 <a href="echobot"><img src="https://i.imgur.com/JCFZGZQ.png" title="echobot" /></a>
 
@@ -131,6 +131,17 @@ Basic program running successfully:
 I found a project map online for a slightly more advanced Magic 8 Ball chatbot, It uses the random module allowing for an unspecific but entertaining response for the users question. as shown below.
 
 <a href="magic8ball"><img src="https://i.imgur.com/Y7UUoSp.png" title="magic8ball" /></a>
+
+### More pratical project example
+
+My next pratice was a program to help automatically calculate shipping costs.
+
+I was given a set of rules for shipping costs as shown below:
+
+<a href="shiprules"><img src="https://i.imgur.com/2UpMGgo.png" title="shiprules" /></a>
+
+My program will take a shipped product's weight and calculate the most cost efficient options for delivery.
+
 
 #### what chatbots are
 #### what types of chatbots exist
