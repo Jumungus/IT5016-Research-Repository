@@ -113,7 +113,7 @@ I find it good when working in IT to almost redo my work once I have gained skil
 ### My Software Project Research & Exploration
 I spent some time looking into diffrent types of chatbots and how/why they are used.
 
-Common use of chatbots are for customer support on e-commerce websites.
+I good pratical use of chatbots are for customer support on websites. A user query could be, “Show me hotels in Christchurch for tomorrow.” and the bot will help the user find hotels.
 
 Some chatbots are advanced virtual assistants like Alexa or Siri who can help you use technology more efficiently and naturally.
 
