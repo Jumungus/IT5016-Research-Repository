@@ -1,4 +1,4 @@
-## Research & Exploration
+## General Research & Exploration
 
 During week one I used Scratch. Scratch is a visual programming language, I experimented with to help better understand some of the fundamentals of programming.
 
@@ -95,7 +95,7 @@ You can run this program in visual studio code or notepad++ by selecting the pyt
 
 <a href="whitcalc"><img src="https://i.imgur.com/wsKfq3H.png" title="whitcalc" /></a>
 
-## My Software Project. Chatbots
+## My Chatbot Software Project
 
 For my assignment I have been tasked with useing my newfound skills to build a software product. I chose some quotes from my assesment as I felt they where important points to focus on.
 
@@ -111,7 +111,7 @@ For my assignment I have been tasked with useing my newfound skills to build a s
 I find it good when working in IT to almost redo my work once I have gained skills and experience. I am going to spend some time studying python chatbots as they can be complex generative programs that can formulate their own original responses or simple rule-based programs that give predefined responses.I find the broad task of a chatbot optimal as the programs complexibility is very flexible allowing me to relax aswell as have freedom to push myself and expand on my programing skills.
  
 
-### My Software Project Research & Exploration
+### My Chatbot Software Project Research & Exploration
 I spent some time looking into diffrent types of chatbots and how/why they are used.
 
 I good pratical use of chatbots are for customer support on websites. A user query could be, “Show me hotels in Christchurch for tomorrow.” and the bot will help the user find hotels.
