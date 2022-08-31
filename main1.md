@@ -65,7 +65,7 @@ This is very useful as people intrinsically recognize the interface layout and t
 ### Development of Application
 
 For the development of this application I will be using Notepad++ and Visual Studio Code as my text editor, many options for editors would work and I only chose these two programs because of my previous practice and proficiency with them.
-A few weeks to complete my program which is plenty of time. I will however aim to finish most of the build early to allow some freedom to test, polish and potentially fix the application as well as giving me time to update my research repository before It is due.
+Im giving myself a few weeks to complete my program which is plenty of time. I will however aim to finish most of the build early to allow some freedom to test, polish and potentially fix the application as well as giving me time to update my research repository before It is due.
 
 ### Installation and Configuration of Tools To Set Up The Lab Environment
 
