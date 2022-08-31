@@ -50,13 +50,14 @@ Some more advanced usability. Demonstrating usage of:
 
 ### Pratical Python Recursive function.
 
+During some python practice I built a simple program that will repeat untill it gets a responce it is happy with. Recursive programs seem to be a big part of how python is built and used.
+
 code
 <a href="pythonrecursicefunctionexample"><img src="https://i.imgur.com/6rUqEJY.png" title="pythonrecursicefunctionexample" /></a>
 
 output
 <a href="rcoutput"><img src="https://i.imgur.com/TERfQzU.png" title="rcoutput" /></a>
 
-During some python practice I built a simple program that will repeat untill it gets a responce it is happy with. Recursive programs seem to be a big part of how python is built and used.
 
 
 
